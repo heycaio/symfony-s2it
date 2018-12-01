@@ -1,0 +1,1 @@
+# symfony-s2it
